@@ -1,0 +1,7 @@
+Dataset 4 - OpenStreetMap Perú
+
+  Descarga oficial:
+  https://download.geofabrik.de/south-america/peru.html
+
+Archivo usado:
+peru-latest-free.shp.zip
