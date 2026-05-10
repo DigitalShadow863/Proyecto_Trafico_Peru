@@ -1,0 +1,6 @@
+anio,region,tipo_vehiculo,flujo_vehicular,accidentes,velocidad_promedio
+2020,Lima,Auto,85000,1200,45
+2021,Lima,Bus,92000,1350,47
+2022,Arequipa,Camioneta,105000,1500,50
+2023,Cusco,Camion,118000,1700,48
+2024,Piura,Moto,128000,1800,46
